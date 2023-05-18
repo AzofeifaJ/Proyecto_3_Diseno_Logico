@@ -1,4 +1,4 @@
-# Proyecto II: Introducción a diseño digital en HDL
+# Proyecto III:  Multiplicador secuencial
 
 ### Instituto Tecnológico de Costa Rica
 ### EL 3307: Diseño Lógico

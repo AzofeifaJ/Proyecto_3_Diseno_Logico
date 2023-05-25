@@ -35,9 +35,7 @@ circuito antirebote de al menos 4 etapas (4 FF en cascada) por switch.
 4. El circuito esperará ante el accionar de un push button.
 5. El circuito no iniciará otra operación hasta que el push button vuelva a su estado inicial (cero).
 
-#### Tabla 1: Modos de operación.
 
-![image](https://user-images.githubusercontent.com/111375712/236120355-1c5e9cc5-58e6-4d02-9745-4fa38b027223.png)
 
 
 ####  Diagrama de bloques
@@ -77,15 +75,12 @@ ningún valor intermedio.
 
 
 
-#### Imagen correspondiente al encendido de LEDs en NEXYS 4 ddr
 
-![image](https://user-images.githubusercontent.com/111375712/194989319-14fcad98-e482-48d3-ba70-ff9cf3102c89.png)
 
 #### Imagen de la distribución de los componentes en la NEXYS 4 ddr
 ![image](https://user-images.githubusercontent.com/111375712/195011801-afe0480f-6058-425c-bd41-d2c9452f1d77.png)
 
-#### Imagen de la distribución de pines del display de 7 segmentos
-![image](https://user-images.githubusercontent.com/111375712/194989472-a5276744-b65a-47e5-b6a7-da2e06bcdfcc.png)
+
 
 
 

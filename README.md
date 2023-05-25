@@ -95,6 +95,10 @@ Obtenención de la simulacion a nivel RTL a partir de la simulación del Testben
 
 
 
+### Análisis de consumo de recursos en la FPGA
+
+
+
 
 ### Análisis de principales problemas hallados durante el trabajo y de las soluciones aplicadas.
 • 

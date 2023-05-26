@@ -18,7 +18,7 @@
 El objetivo fundamental de este proyecto es introducir al estudiante a la implementación de algoritmos por medio de máquinas de estados complejas, a partir de elaborar una implementación de un diseño digital en una FPGA, construir un testbench básico para validar las especificaciones del diseño e implementar el algoritmo de Booth con una Máquina de estados con técnicas avanzadas
 
 
-### Diagrama de bloques general del sistema suministrado por el profesor
+### Diagrama de bloques general del sistema
 
 
 
@@ -59,11 +59,29 @@ datos.
 
 
 ### Algoritmo de Booth
+El algoritmo de Booth es un método para realizar la multiplicación binaria de dos números con signo. El algoritmo se basa en el uso de un registro de desplazamiento que contiene los operandos y el resultado parcial. El algoritmo se repite un número fijo de veces, dependiendo del número de bits de los operandos. En cada iteración, se realiza una operación aritmética según el valor de los dos últimos bits del registro, y luego se desplaza el registro una posición a la derecha. El algoritmo de Booth es más eficiente que el método tradicional de suma y desplazamiento, ya que puede manejar casos especiales como el cero y los números negativos.
 
 
-#### Funcionamiento del Algoritmo Double Dabble
+#### Funcionamiento del Algoritmo de Booth
 
+El algoritmo funciona de la siguiente manera:
 
+1. Se inicializa el registro de desplazamiento con el multiplicando, el acumulador con cero y un bit extra con cero.
+2. Se compara el bit extra con el bit menos significativo del registro de desplazamiento. Si son iguales, se salta al paso 4. Si son diferentes, se realiza una de las siguientes operaciones según el valor del bit extra:
+  - Si el bit extra es 0 y el bit menos significativo es 1, se suma el multiplicador al acumulador.
+  - Si el bit extra es 1 y el bit menos significativo es 0, se resta el multiplicador al acumulador.
+3. Se actualiza el bit extra con el valor del bit menos significativo del registro de desplazamiento.
+4. Se desplaza el registro de desplazamiento y el acumulador una posición a la derecha, conservando el signo del acumulador.
+5. Se repite los pasos 2 a 4 hasta que se hayan realizado tantos desplazamientos como bits tenga el multiplicando.
+6. Se devuelve el contenido del acumulador como resultado de la multiplicación.
+
+### Diagrama Multiplicador de Booth
+
+![Image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/914096ee-4f4a-4d7a-9134-6936bf7acada)
+
+### Ejemplo Multiplicador de Booth
+
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/dd6a39e0-aaa1-4415-9822-3d7fade90f14)
 
 
 ### Subsistema de despliegue

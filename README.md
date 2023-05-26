@@ -18,14 +18,15 @@
 El objetivo fundamental de este proyecto es introducir al estudiante a la implementación de algoritmos por medio de máquinas de estados complejas, a partir de elaborar una implementación de un diseño digital en una FPGA, construir un testbench básico para validar las especificaciones del diseño e implementar el algoritmo de Booth con una Máquina de estados con técnicas avanzadas
 
 
-### Diagrama de bloques general del sistema
-
-
-
 ### Representación de una Nexys 4 DDR
 
 ![nexys-4-ddr-2](https://user-images.githubusercontent.com/111375712/233267532-c767c9a8-8a26-439e-a7d4-a855c1f0dba8.png)
 
+
+
+### Circuito que implementa la ruta de datos para el algoritmo de Booth
+
+![Image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/03a336a7-9cd4-46f3-b943-ada2a3c0d2fd)
 
 ###  Subsistema de lectura.
 1. Este bloque adquiere los operandos A y B de 8 bits cada uno para realizar la operación de multiplicación.
@@ -35,12 +36,15 @@ circuito antirebote de al menos 4 etapas (4 FF en cascada) por switch.
 4. El circuito esperará ante el accionar de un push button.
 5. El circuito no iniciará otra operación hasta que el push button vuelva a su estado inicial (cero).
 
+### Antirebote del subsistema de lectura
+
+![Image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/29fed87a-ae76-4cac-a123-10bbd0355086)
 
 
 
-####  Diagrama de bloques
+####  Diagrama de bloques Subsistema de lectura.
 
-
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/dbdbf7d3-2710-4a35-98ab-2dc690753f25)
 
 
 
@@ -53,9 +57,9 @@ que los operandos son válidos por medio de una señal de inicio.
 5. Debe de implementar este sistema siguiente la metodología de separar la ruta de control de la ruta de
 datos.
 
-####  Diagrama de bloques
+####  Diagrama de subsistema cálculo de multiplicación.
 
-
+![Image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/1e0488c8-7f7e-4751-a49f-8b94c519fe5d)
 
 
 ### Algoritmo de Booth
@@ -89,17 +93,10 @@ El algoritmo funciona de la siguiente manera:
 2. Lo que se muestra en los LEDs solamente se actualiza al finalizar una operación. No se debe mostrar
 ningún valor intermedio.
 
-####  Diagrama de bloques
-
-
-
 
 
 #### Imagen de la distribución de los componentes en la NEXYS 4 ddr
 ![image](https://user-images.githubusercontent.com/111375712/195011801-afe0480f-6058-425c-bd41-d2c9452f1d77.png)
-
-
-
 
 
 

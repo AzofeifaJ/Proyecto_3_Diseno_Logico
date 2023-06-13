@@ -38,13 +38,13 @@ circuito antirebote de al menos 4 etapas (4 FF en cascada) por switch.
 
 ### Antirebote del subsistema de lectura
 
-![Image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/29fed87a-ae76-4cac-a123-10bbd0355086)
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/4b87b9fd-4496-4d0e-a9f4-6ab7a6f9f494)
 
 
 
 ####  Diagrama de bloques Subsistema de lectura.
 
-![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/dbdbf7d3-2710-4a35-98ab-2dc690753f25)
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/fd344a1f-1447-43c0-9894-6c7242c301a6)
 
 
 
@@ -56,6 +56,11 @@ que los operandos son válidos por medio de una señal de inicio.
 4. El bloque indicará que el resultado es valido por medio de una señal de listo (ready)
 5. Debe de implementar este sistema siguiente la metodología de separar la ruta de control de la ruta de
 datos.
+
+### #Diagrama de Bloques Subsistema de cálculo de multiplicación
+
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/9a2d9f00-240c-4022-ae24-ad8c90f8ce15)
+
 
 ####  Diagrama de subsistema cálculo de multiplicación.
 
@@ -117,6 +122,8 @@ Obtenención de la simulacion a nivel RTL a partir de la simulación del Testben
 
 ### Análisis de principales problemas hallados durante el trabajo y de las soluciones aplicadas.
 • 
+• Una inadecuada gestión del tiempo para desarrollar de manera eficiente el proyecto con lo cual se generó un plan de trabajo para ir trabajando mediante cumplimiento de objetivos 
 • 
-• 
+
+
 

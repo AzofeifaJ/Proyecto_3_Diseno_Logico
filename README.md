@@ -122,14 +122,14 @@ Obtenención de la simulacion a nivel RTL a partir de la simulación del Testben
 
 #### Simulación de las entradas
 
-![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/b2e3414e-9dc4-46b5-b5bf-ad1269440a2c)
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/55867043-6e60-4a94-a60d-9a40618d4d17)
 
-![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/4df95bbc-ee79-437d-ba42-31332fa75cc1)
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/aa587fd0-003e-4cad-9a76-6d84f132a6b5)
 
 
 #### Simulación del main
 
-![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/59a0898b-f895-4d5e-beb4-5391de65b093)
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/9bc060ef-1aee-4357-b9b7-b32164db087e)
 
 
 

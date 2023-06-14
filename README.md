@@ -132,8 +132,6 @@ Obtenención de la simulacion a nivel RTL a partir de la simulación del Testben
 ![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/59a0898b-f895-4d5e-beb4-5391de65b093)
 
 
-### Análisis de consumo de recursos en la FPGA
-
 
 
 

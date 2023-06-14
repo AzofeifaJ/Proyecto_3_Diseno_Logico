@@ -57,10 +57,6 @@ que los operandos son válidos por medio de una señal de inicio.
 5. Debe de implementar este sistema siguiente la metodología de separar la ruta de control de la ruta de
 datos.
 
-### #Diagrama de Bloques Subsistema de cálculo de multiplicación
-
-![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/9a2d9f00-240c-4022-ae24-ad8c90f8ce15)
-
 
 ####  Diagrama de subsistema cálculo de multiplicación.
 

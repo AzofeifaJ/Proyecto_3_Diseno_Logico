@@ -139,7 +139,5 @@ Obtenención de la simulacion a nivel RTL a partir de la simulación del Testben
 
 • No se logró la correcta implementación de las salidas en los LED´s ya que fue imposible conectar el módulo correspondiente a dichas salidas principalmente por una falta de información sobre el mismo y por custión de tiempo.
 
-• Banco de pruebas y testbenches requeridos: Otra inconveniente que se presentó fue durante las primeras Simulaciones RTL, no se estabam generaban correctamente los resultados correctos deseados, esto fue solucionado 
-
-este error generó atrasos en la realización de las pruebas necesarias.
+• Banco de pruebas y testbenches requeridos: Otra inconveniente que se presentó fue durante las primeras Simulaciones RTL, no se estaban generaban correctamente los resultados correctos deseados, este error generó atrasos en la realización de las pruebas necesarias.
 

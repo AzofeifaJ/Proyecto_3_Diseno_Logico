@@ -109,7 +109,7 @@ ningún valor intermedio.
 ### Diagramas de estado de las FSM diseñadas
 Se realizaron dos diagramas de estados finitos (FSM) con el objetivo de factorizar el funcionamiento de los mismos, para representar gráficamente el comportamiento del sistema. Para este proyecto se utilizó el FSM de Moore en el cual las salidas dependen sólo del estado actua. Las transiciones entre estados se representan por flechas con una etiqueta que indica la condición o evento que provoca el cambio de estado. Esto con el fin de visualizar fácilmente el flujo de control y las acciones que se realizan en cada estado del sistema.
 
-### Diagramas de Estado del tiempo de espera
+#### Diagramas de Estado del tiempo de espera
 
 ![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/226c792e-6ff2-49f5-9c68-ec5dcf359f92)
 
@@ -131,9 +131,9 @@ Obtenención de la simulacion a nivel RTL a partir de la simulación del Testben
 
 
 ### Análisis de principales problemas hallados durante el trabajo y de las soluciones aplicadas.
-• 
-• Una inadecuada gestión del tiempo para desarrollar de manera eficiente el proyecto con lo cual se generó un plan de trabajo para ir trabajando mediante cumplimiento de objetivos 
-• 
 
+• Una inadecuada gestión del tiempo para desarrollar de manera eficiente el proyecto con lo cual se generó un plan de trabajo para ir trabajando mediante cumplimiento de objetivos.
+• Entendimiento del correcto funcionamiento del Algoritmo de Booth con el cual se realizó una investigar de manera detallada sobre el mismo.
+• Implementación de las salidas en los LED´s 
 
 

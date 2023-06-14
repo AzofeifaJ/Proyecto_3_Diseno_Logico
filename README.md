@@ -107,7 +107,17 @@ ningún valor intermedio.
 
 
 ### Diagramas de estado de las FSM diseñadas
-Los diagramas de estado de las máquinas de estados finitos (FSM) son una forma de representar gráficamente el comportamiento de un sistema que puede estar en uno de varios estados posibles. Las transiciones entre estados se representan por flechas con una etiqueta que indica la condición o evento que provoca el cambio de estado. Los diagramas de estado de las FSM permiten visualizar fácilmente el flujo de control y las acciones que se realizan en cada estado del sistema.
+Se realizaron dos diagramas de estados finitos (FSM) con el objetivo de factorizar el funcionamiento de los mismos, para representar gráficamente el comportamiento del sistema. Para este proyecto se utilizó el FSM de Moore en el cual las salidas dependen sólo del estado actua. Las transiciones entre estados se representan por flechas con una etiqueta que indica la condición o evento que provoca el cambio de estado. Esto con el fin de visualizar fácilmente el flujo de control y las acciones que se realizan en cada estado del sistema.
+
+### Diagramas de Estado del tiempo de espera
+
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/226c792e-6ff2-49f5-9c68-ec5dcf359f92)
+
+
+#### Diagramas de Estado del algoritmo de multiplicación
+
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/1f38a820-6f2a-4ed9-99bd-ec1eabb37f81)
+
 
 
 ### Ejemplo y análisis de una simulación funcional

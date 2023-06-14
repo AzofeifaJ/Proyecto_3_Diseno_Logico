@@ -133,7 +133,9 @@ Obtenención de la simulacion a nivel RTL a partir de la simulación del Testben
 ### Análisis de principales problemas hallados durante el trabajo y de las soluciones aplicadas.
 
 • Una inadecuada gestión del tiempo para desarrollar de manera eficiente el proyecto con lo cual se generó un plan de trabajo para ir trabajando mediante cumplimiento de objetivos.
+
 • Entendimiento del correcto funcionamiento del Algoritmo de Booth con el cual se realizó una investigar de manera detallada sobre el mismo.
+
 • Implementación de las salidas en los LED´s 
 
 

@@ -135,8 +135,11 @@ Obtenención de la simulacion a nivel RTL a partir de la simulación del Testben
 
 • Una inadecuada gestión del tiempo para desarrollar de manera eficiente el proyecto con lo cual se generó un plan de trabajo para ir trabajando mediante cumplimiento de objetivos.
 
-• Entendimiento del correcto funcionamiento del Algoritmo de Booth con el cual se realizó una investigar de manera detallada sobre el mismo.
+• Entendimiento del correcto funcionamiento del Algoritmo de Booth con el cual se realizó una investigar de manera detallada sobre el mismo y resolviemdo ejemplos prácticos.
 
-• Implementación de las salidas en los LED´s 
+• No se logró la correcta implementación de las salidas en los LED´s ya que fue imposible conectar el módulo correspondiente a dichas salidas principalmente por una falta de información sobre el mismo y por custión de tiempo.
 
+• Banco de pruebas y testbenches requeridos: Otra inconveniente que se presentó fue durante las primeras Simulaciones RTL, no se estabam generaban correctamente los resultados correctos deseados, esto fue solucionado 
+
+este error generó atrasos en la realización de las pruebas necesarias.
 

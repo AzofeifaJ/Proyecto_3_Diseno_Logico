@@ -118,7 +118,9 @@ Se realizaron dos diagramas de estados finitos (FSM) con el objetivo de factoriz
 
 ### Ejemplo y análisis de una simulación funcional
 
-Obtenención de la simulacion a nivel RTL a partir de la simulación del Testbench con un ejemplo implementado los subsistemas.
+Obtenención de la simulacion a nivel RTL a partir de la simulación del Testbench
+
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/24a8d7e9-41a7-46a3-8199-84e6d7243db4)
 
 
 

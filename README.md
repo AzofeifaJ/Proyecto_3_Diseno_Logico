@@ -120,8 +120,11 @@ Se realizaron dos diagramas de estados finitos (FSM) con el objetivo de factoriz
 
 Obtenención de la simulacion a nivel RTL a partir de la simulación del Testbench
 
-![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/24a8d7e9-41a7-46a3-8199-84e6d7243db4)
+#### Simulación de las entradas
 
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/b2e3414e-9dc4-46b5-b5bf-ad1269440a2c)
+
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/4df95bbc-ee79-437d-ba42-31332fa75cc1)
 
 
 ### Análisis de consumo de recursos en la FPGA

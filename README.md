@@ -107,12 +107,12 @@ Se realizaron dos diagramas de estados finitos (FSM) con el objetivo de factoriz
 
 #### Diagramas de Estado del tiempo de espera
 
-![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/226c792e-6ff2-49f5-9c68-ec5dcf359f92)
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/81ca7d5a-9791-4f09-b66c-bc7946e7ed9e)
 
 
 #### Diagramas de Estado del algoritmo de multiplicación
 
-![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/1f38a820-6f2a-4ed9-99bd-ec1eabb37f81)
+![image](https://github.com/AzofeifaJ/Proyecto_3_Diseno_Logico/assets/111375712/5907840f-12ea-4816-9e20-748e6ae93ec7)
 
 
 
